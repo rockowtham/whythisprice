@@ -1,9 +1,5 @@
 # whythisprice
 
-- START HERE
-
-## What You're Building
-
 A **transparent, explainable AI system** that analyzes Indian stocks by:
 
 1. **Running 3 independent agents** (Fundamentals, Technicals, Sentiment)
